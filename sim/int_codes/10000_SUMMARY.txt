@@ -1,0 +1,5 @@
+0: Largest number of shared strings between any 2 candycodes: 4
+0: Largest number of shared strings between any 2 candycodes: 3
+0: Largest number of shared strings between any 2 candycodes: 3
+0: Largest number of shared strings between any 2 candycodes: 4
+0: Largest number of shared strings between any 2 candycodes: 3
