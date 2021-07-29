@@ -1,3 +1,5 @@
+# (c) 2021 by William H. Grover  |  wgrover@engr.ucr.edu  |  groverlab.org
+
 import sys
 import subprocess
 
