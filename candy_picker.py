@@ -1,3 +1,5 @@
+# (c) 2021 by William H. Grover  |  wgrover@engr.ucr.edu  |  groverlab.org
+
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import sys
