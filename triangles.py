@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import csv, sys, math, scipy.spatial, os
 import numpy as np
 from collections import Counter
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 plt.rcParams["font.family"] = "Helvetica"
 
 outfile = open("REPORT.TXT", 'w')
