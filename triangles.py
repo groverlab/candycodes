@@ -1,11 +1,11 @@
 # (c) 2021 by William H. Grover  |  wgrover@engr.ucr.edu  |  groverlab.org
 
 import matplotlib.pyplot as plt
-import csv, sys, math, scipy.spatial, os
+import csv, math, scipy.spatial, os
 import numpy as np
 from collections import Counter
-plt.rcParams['pdf.fonttype'] = 42
-plt.rcParams['ps.fonttype'] = 42
+plt.rcParams['pdf.fonttype'] = 42  # Fix for "RuntimeError TrueType font is missing table"
+plt.rcParams['ps.fonttype'] = 42   # fix for "RuntimeError TrueType font is missing table"
 plt.rcParams["font.family"] = "Helvetica"
 
 verbose = False
